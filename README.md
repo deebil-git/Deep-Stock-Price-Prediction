@@ -16,5 +16,5 @@
 
 ## Result Bitcoin_twitter_sentiment_analysis.ipynb
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/sentiment-res1.png" width="650" height="300"/> 
-<img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/sentiment-res2.JPG" width="450" height="400"/>
+<img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/sentiment-res2.JPG" width="450" height="300"/>
  
