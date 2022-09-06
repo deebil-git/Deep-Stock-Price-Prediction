@@ -1,4 +1,4 @@
-### Deep-Stock-Price-Prediction  
+##### Deep-Stock-Price-Prediction presents ####### three efficient approaches for stock price forecasting
 
 # Results
 <hr style="border:2px solid gray">
