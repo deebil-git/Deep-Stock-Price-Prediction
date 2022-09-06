@@ -1,7 +1,6 @@
 ### [Deep-Stock-Price-Prediction](https://github.com/amousavi9/Deep-Stock-Price-Prediction) presents three efficient approaches for stock price forecasting
 
-# Results
-<hr style="border:2px solid gray">
+## Results
 
 ## Result stock-price-trend-prediction.ipynb
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/trend-prediction-acc.jpg" width="600" height="250"/>
