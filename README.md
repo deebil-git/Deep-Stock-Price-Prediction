@@ -3,7 +3,6 @@
 # Results
 [stock_price_direction_prediction.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/stock_price_direction_prediction.ipynb)
 
-## Result stock-price-trend-prediction.ipynb
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/trend-prediction-acc.jpg" width="600" height="250"/>
 
 
