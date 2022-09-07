@@ -1,7 +1,7 @@
 ### [Deep-Stock-Price-Prediction](https://github.com/amousavi9/Deep-Stock-Price-Prediction) presents four efficient approaches for stock price forecasting
 
 # Results
-[stock_price_direction_prediction.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/stock_price_direction_prediction.ipynb)
+[stock_price_direction_prediction.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/stock_price_direction_prediction.ipynb), predicts stock price direction using deep learning model with empirical mode decomposition
 
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/trend-prediction-acc.jpg" width="600" height="250"/>
 <hr style="border:2px solid gray">
