@@ -20,4 +20,5 @@ The image below shows the evaluation of the model on the test data.
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/darts-res.jpg" width="600" height="320"/>
 <hr style="border:2px solid gray">
   
-[SVM_RandomForest_DecisionTree.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/SVM_RandomForest_DecisionTree.ipynb)
+[SVM_RandomForest_DecisionTree.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/SVM_RandomForest_DecisionTree.ipynb) use SVM, Random Forest, and Decision Tree to predict price returns direction.
+For each of these models, the classification accuracy in the test set was about 74%, 72%, and 65%, respectively.
