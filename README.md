@@ -1,4 +1,4 @@
-### [Deep-Stock-Price-Prediction](https://github.com/amousavi9/Deep-Stock-Price-Prediction) presents four efficient approaches for stock price forecasting
+### [Deep-Stock-Price-Prediction](https://github.com/amousavi9/Deep-Stock-Price-Prediction) presents efficient AI-based approaches for stock price forecasting
 
 # Results
 [stock_price_direction_prediction.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/stock_price_direction_prediction.ipynb) use an empirical mode decomposition (EMD)-based deep learning approach to predict price direction.
