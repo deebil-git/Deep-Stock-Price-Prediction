@@ -2,7 +2,7 @@
 
 # Results
 [stock_price_direction_prediction.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/stock_price_direction_prediction.ipynb) uses an empirical mode decomposition (EMD)-based deep learning approach to predict price direction.
-The model is evaluated, reporting the classification accuracy on the test set of about 85%.
+The model is evaluated, reporting the classification accuracy on the test set is about 85%.
 
 <img src="https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/results/trend-prediction-acc.jpg" width="600" height="350"/>
 <hr style="border:2px solid gray">
