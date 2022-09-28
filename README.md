@@ -22,3 +22,7 @@ The image below shows the evaluation of the model on the test data.
   
 [SVM_RandomForest_DecisionTree.ipynb](https://github.com/amousavi9/Deep-Stock-Price-Prediction/blob/main/SVM_RandomForest_DecisionTree.ipynb) uses SVM, Random Forest, and Decision Tree to predict price returns direction.
 For each of these models, the classification accuracy in the test set was about 74%, 72%, and 65%, respectively.
+
+## Team
+amousavy9@gmail.com    
+S.mousavy@gmail.com
